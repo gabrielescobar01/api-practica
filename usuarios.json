@@ -1,0 +1,30 @@
+{
+    "usuarios": [
+        {
+            "id": 0,
+            "nombre": "Juann",
+            "apellido": "Perez",
+            "edad": "22",
+            "email": "juanperez@gmail.com",
+            "telefono": "123456789",
+            "domicilio": "Calle falsa 123",
+            "nacionalidad": "Argentina",
+            "estadoCivil": "Soltero",
+            "sexo": "Masculino",
+            "fechaNacimiento": "04-01-2000"
+        },
+        {
+            "id": 1,
+            "nombre": "Roberto",
+            "apellido": "Sanchez",
+            "edad": "23",
+            "email": "robertosanchez@gmail.com",
+            "telefono": "123456788",
+            "domicilio": "Calle falsa 4321",
+            "nacionalidad": "Argentina",
+            "estadoCivil": "Soltero",
+            "sexo": "Masculino",
+            "fechaNacimiento": "07-03-1999"
+        }
+    ]
+}
